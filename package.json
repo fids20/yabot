@@ -19,15 +19,15 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "homepage": "https://github.com/fids20/yabot",
   "author": {
     "name": "arpunchs"
   },
   "repository": {
-    "url": "https://github.com/Nurutomo/wabot-aq.git"
+    "url": "https://github.com/fids20/yabot.git"
   },
   "bugs": {
-    "url": "https://github.com/Nurutomo/wabot-aq/issues"
+    "url": "https://github.com/fids20/yabot/issues"
   },
   "license": "GPL3",
   "dependencies": {
